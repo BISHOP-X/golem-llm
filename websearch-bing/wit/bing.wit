@@ -1,0 +1,7 @@
+package websearch:bing@1.0.0;
+
+world bing-library {
+    import golem:web-search/types@1.0.0;
+    import golem:web-search/web-search@1.0.0;
+    export golem:web-search/web-search@1.0.0;
+}
